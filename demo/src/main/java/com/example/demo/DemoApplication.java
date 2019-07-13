@@ -10,6 +10,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("first commit");
 		System.out.println("second commit");
+		System.out.println("third commit");
 	}
 
 }
